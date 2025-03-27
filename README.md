@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alessandro</h1>
 <h3 align="center">A passionate student from Edinburgh, Scotland</h3>
 
-<p align="center">🌱 I’m currently learning <b>Java, moving onto C as well as a networking and frontend development module</b>></p>
+<p align="center">🌱 I’m currently learning <b>Java, moving onto C as well as a networking and frontend development module</b></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
