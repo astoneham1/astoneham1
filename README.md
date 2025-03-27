@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alessandro</h1>
 <h3 align="center">A passionate student from Edinburgh, Scotland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=astoneham1&label=Profile%20views&color=0e75b6&style=flat" alt="astoneham1" /> </p>
-
 - 🌱 I’m currently learning **Java, moving onto C as well as a networking and frontend development module**
 
 <h3 align="center">Connect with me:</h3>
