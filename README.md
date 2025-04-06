@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alessandro</h1>
 <h3 align="center">A passionate student from Edinburgh, Scotland</h3>
 
-<p align="center">
 - 🌱 I’m currently learning **Java, moving onto C as well as a networking and frontend development module**
 
 - 👨‍💻 All of my projects are available on my [portfolio site](https://alexstoneham.co.uk)
@@ -9,7 +8,6 @@
 - 📫 You can reach me at **me@alexstoneham.co.uk**
 
 - 📄 Know about my experiences [by reading my CV](https://alexstoneham.co.uk/resume.pdf)
-</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
