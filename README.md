@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alessandro</h1>
 <h3 align="center">A passionate student from Edinburgh, Scotland</h3>
 
-- 🌱 I’m currently learning **Java, moving onto C as well as a networking and frontend development module**
+- 🌱 I’m currently learning **Java, computer systems fundamentals (data structures, algorithms, grammars and FSMs), as well as networking and frontend development**
 
 - 👨‍💻 All of my projects are available on my [portfolio site](https://alexstoneham.co.uk)
 
