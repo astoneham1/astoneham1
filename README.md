@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alessandro</h1>
 <h3 align="center">A passionate student from Edinburgh, Scotland</h3>
 
-- 🌱 I’m currently learning **Java, computer systems fundamentals (data structures, algorithms, grammars and FSMs), as well as networking and frontend development**
+- 🌱 I’m currently learning **low level programming (C), creating projects in Haskell and Python, as well as improving my frontend skills by making fun websites**
 
-- 👨‍💻 All of my projects are available on my [portfolio site](https://alexstoneham.co.uk)
+- 👋 Read more about me on my [portfolio site](https://alexstoneham.co.uk)
+
+- 👨‍💻 All of my projects are available on my [projects hub](https://projects.alexstoneham.co.uk)
 
 - 📫 You can reach me at **me@alexstoneham.co.uk**
 
