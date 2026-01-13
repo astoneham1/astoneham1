@@ -23,11 +23,11 @@
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://stats-deploy-one.vercel.app/api?username=astoneham1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img src="https://stats-deploy-one.vercel.app/api?username=astoneham1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&v=1" alt="GitHub Stats" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://stats-deploy-one.vercel.app/api/top-langs/?username=astoneham1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <img src="https://stats-deploy-one.vercel.app/api/top-langs/?username=astoneham1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&v=1" alt="Top Languages" />
 </a>
 
 </div>
