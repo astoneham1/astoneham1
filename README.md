@@ -9,7 +9,7 @@
 
 - 📫 You can reach me at **me@alexstoneham.co.uk**
 
-- 📄 Know about my experiences [by reading my CV](https://alexstoneham.co.uk/resume.pdf)
+- 📄 Know about my experiences [by reading my CV](https://alexstoneham.co.uk/cv.pdf)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
